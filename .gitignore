@@ -1,0 +1,28 @@
+# Dados
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+
+# Modelos
+models/*.pkl
+models/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Banco de dados
+*.sqlite
+*.db
